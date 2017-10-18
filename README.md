@@ -7,7 +7,7 @@ If you already have a Github account, you may skip this section, otherwise, if r
 
 ![Initial Repo Appearance](/images/initial-repo-appearance.png)
 
-The first thing to do is create an account. Click the `Sign Up` button in the middle of the screen (if it is there) or click the `Sign Up` link in the top right of the screen.
+The first thing to do is create an account. Click the `Sign Up` button in the middle of the screen (if it is there), click the `Sign Up` link in the top right of the screen or use [this link](https://github.com/join).
 
 Fill in some basic information to join Github:
 
@@ -59,7 +59,7 @@ Nice! Now we are going to create our file! In the top box, we need to name our f
 
 - If you have the same name as someone else who has already contributed to the project, you may need to add a middle name or initial. John Smith might have to name his file `john-henry-smith.md`
 - Please follow the "All lowercase" and "No spaces" rules here. When contributing to open source, following the conventions of the project is really important.
-- The file we're going to be adding is a "Markdown" file. Your file must end in `.md`. Like a normal folder, we can add almost any type of file `.doc`, `.js`, `.ppt`, but here, we are adding a Markdown file.
+- The file we're going to be adding is a "Markdown" file. Your file must end in `.md`. Like a normal folder, we can add almost any type of file `.doc`, `.js`, `.ppt`, but here, we are adding a Markdown file. You can use [Github's official guide](https://guides.github.com/features/mastering-markdown/) for Markdown to style your file.
 
 > Fun Fact: The naming we're using here is called `kabob-case` because it kind of looks like the `letters-are-on-a-kabob-stick`. ![Photo by pan xiaozhen on Unsplash](/images/pan-xiaozhen-kabob.jpg)
 
